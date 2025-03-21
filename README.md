@@ -31,7 +31,7 @@ Setup Instructions
 sh
 Copy
 Edit
-git clone https://github.com/rameshwar-p001/Django-full-stack-develpment-project-main-clg.git
+git clone https://github.com/Vedant-Pujari/Full-stack-Development-with-Django-Managing-Migrations
 
 cd Django-full-stack-develpment-project-main-clg
 
@@ -68,9 +68,9 @@ Access the application at http://127.0.0.1:8000/
 
 
 Done By :-    
-         Rameshwar Digambar Patil
+        Vedant R Pujari
 
-Div - J - 01
+Div - J - 19
 
 Pimpri Chinchwad University
 
